@@ -1,5 +1,13 @@
 #first-section,.grid {
     display: grid;
     grid-template-columns: repeat(3,1fr);
-    background: url("./logo.svg") no-repeat;
+    background: url("logo.svg") no-repeat;
+}
+#main div {
+    height: 100vh;
+    font-size: 50px;
+    color: pink;
+}
+#main div:nth-of-type(1) {
+    background: url('img-src/1004-200x300.jpg') center / cover no-repeat;
 }
