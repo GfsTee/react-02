@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Finn",
+        "alter": 22,
+        "img": "https://picsum.photos/id/237/200/300",
+        "kommentar": "Hier schreibe ich meinen Kommentar zum json Format"
+    },
+    {
+        "name": "Finn",
+        "alter": 22,
+        "img": "https://picsum.photos/id/237/200/300"
+    },
+    {
+        "name": "Finn",
+        "alter": 22,
+        "img": "https://picsum.photos/id/237/200/300"
+    },
+    {
+        "name": "Finn",
+        "alter": 22,
+        "img": "https://picsum.photos/id/237/200/300"
+    }
+]
