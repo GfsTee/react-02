@@ -1,5 +1,5 @@
 #first-section,.grid {
     display: grid;
     grid-template-columns: repeat(3,1fr);
-    background: url("/logo.svg") no-repeat;
+    background: url("./logo.svg") no-repeat;
 }
