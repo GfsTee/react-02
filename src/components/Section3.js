@@ -16,7 +16,6 @@ const Section3 = () => {
                     userFullName2={`${user.first_name} ${user.last_name}`}
                     key={user.id}
                 // userFullName3={userFirst + " " + userLast} funktioniert nicht
-
                 />
             })}
         </div>
