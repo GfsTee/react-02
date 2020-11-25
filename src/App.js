@@ -7,9 +7,9 @@ import Section3 from './components/Section3';
 function App() {
   return (
     <main>
-      <Background />
-      <Section3 />
-      <Section />
+      {/* <Background />
+      <Section3 /> */}
+      {/* <Section /> */}
       <Section2 />
     </main>
   );

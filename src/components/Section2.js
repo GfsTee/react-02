@@ -11,10 +11,11 @@ const Section2 = () => {
             <Card2 />
             <Card2 /> */}
             {myFakeData.map(singleFakeData => <Card2
-                userImg={singleFakeData.avatar}
-                userName={singleFakeData.firs_name}
-                userEmail={singleFakeData.email}
-                userGender={singleFakeData.gender}
+                // userImg={singleFakeData.avatar}
+                // userName={singleFakeData.firs_name}
+                // userEmail={singleFakeData.email}
+                // userGender={singleFakeData.gender}
+                userData={singleFakeData}
                 key={singleFakeData.id}
             />)}
         </section>
